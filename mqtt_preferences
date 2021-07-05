@@ -1,0 +1,6 @@
+mqtt_address="192.168.1.197"
+mqtt_port="1883"
+mqtt_user="username"
+mqtt_password="password"
+mqtt_topicpath="location"
+mqtt_room="Vraj's room"
